@@ -4,7 +4,7 @@
         <description><![CDATA[cburg]]></description>
         <link>https://thegrid.ai/cburg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 22:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 22:45:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cburg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Social networks]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 16 Oct 2015 22:35:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test.  Hello world, what does this do?</p>]]></description>
+            <title><![CDATA[Photos]]></title>
+            <description><![CDATA[<h1>Photos</h1>]]></description>
             <link>https://thegrid.ai/cburg/e383c82e-5138-4c4b-9537-3cd9e7e55d41/index.html</link>
             <guid isPermaLink="false">e383c82e-5138-4c4b-9537-3cd9e7e55d41</guid>
-            <pubDate>Fri, 16 Oct 2015 22:28:54 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2015 22:44:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
