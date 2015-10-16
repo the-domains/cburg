@@ -1,7 +1,7 @@
 name: cburg
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.4916443903930485
+typography_spectrum: 0.00694
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#887017'
   brandStrength: 0.5
   lightness: 0.5515761936549097
-  saturation: 0.38315608934499323
+  saturation: 0.25
   rhythmicContrast: 0.10102604632265866
 purpose: []
